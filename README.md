@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Randerson-Abdon
-- 👀 I’m interested in php development, javascript, dart, html, css, nodejs and more
-- 🌱 I'm currently working, but always in constant study.
-- 💞️ Looking to collaborate on projects that i can learn and also pass on some of my knowledge
+Teste Técnico
 
-<!---
-Randerson-Abdon/Randerson-Abdon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Usar o https://codesandbox.io/s/react-new
+
+Criar um sistema de luzes, que deve obedecer às seguintes regras:
+
+Mostrar na tela inicialmente três luzes (círculos) nas cores: vermelho, amarelo e verde;
+Inicialmente todas as luzes estão apagadas (opacidade 50%)
+Somente 1 luz pode ficar ligada por vez (opacidade 100%)
+A luz liga quando o usuário clica em cima dela
